@@ -14,3 +14,23 @@ More detailed explanation checkout [APEX Navigation Menu Experiments Part 3
 ](https://hardlikesoftware.com/weblog/2020/03/31/apex-navigation-menu-experiments-part-3/).
 
 Those are actually not looking to bother with the code changes please visit the [apex world](https://apex.world) to and find the plugin based on the above experiment and make your application flexible to change navigation menu position dynamically.
+
+
+### How to use?
+#### Steps
+
+* [Download Plugin](https://apex.world).
+* Install this plugin into your application.
+* Create a dynamic action on page zero.
+* Create True action
+* __Nav Menu bar Item Class__ : user-menu-btn
+* __Nav Item Label__ : Nav Position
+* __Nav Item Icon__ : fa-braille
+* Go to Navigation bar list
+* Select any of the navigation bar entry i.e. User name
+* __User Defined Attributes__ :
+    * __List Item CSS Classes__: user-menu-btn
+
+
+
+[Demo](https://apex.oracle.com/pls/apex/f?p=93690)
