@@ -1,6 +1,6 @@
 ### Dynamic position navigation menu
 
-![Preview](/images/DYNAMIC_POSITION_NAV_MENU/preview.gif)
+![Preview](https://raw.githubusercontent.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU/master/preview.gif)
 
 As a developer we know how to change the Navigation menu position. We have access to change the navigation menu position but when it comes to user then there is hard and forced fixed menu position is offered to user.
 It was all history until it came to **John Snyders**.
