@@ -21,7 +21,7 @@
     "url" : "https://github.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU.git"
   },
  "oracle" : {
-    "versions" : ["19"],
+    "versions" : ["19.0.0.0.0"],
     "apex" : {
       "versions" : ["19.2.0"],
       "plugin" : {
