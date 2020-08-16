@@ -1,35 +1,35 @@
 {
-  "name" : "Dynamic Navigation Menu Position",
-  "version" : "1.0",
-  "description" : "Dynamic navigation Menu Position.\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\nThis plugin is free for use under MIT license.\r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EDynamic Navigation Menu Position \u003C\/strong\u003E allows user to change navigation menu position dynamically.\r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOptions\u003C\/h4\u003E\r\n \n\u003C\/p\u003E\n\u003Col\u003E\n\u003Cli\u003ETop\u003C\/li\u003E\n\u003Cli\u003ESide\u003C\/li\u003E\n\u003Cli\u003EAuto\u003C\/li\u003E \n\u003C/ol\u003E\n\r\n\u003C\/p\u003E\r\n\u003Ch4\u003ECredits\u003C\/h4\u003E\r\nIt wouldn't be possible without the \u003C\/strong\u003EJohn's \u003C\/strong\u003E experiment on Navigation menu\n Check out the full article \n \u003C\a\u003E href=\"https://hardlikesoftware.com/weblog/2020/03/31/apex-navigation-menu-experiments-part-3/\"\u003EAPEX Navigation Menu Experiments Part 3 \u003C\/a\u003E",
-  "keywords" : ["Navigation Menu"],
-  "homepage" : "https://github.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU.git",
-  "bugs" : {
-    "url" : "https://github.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU/issues",
-    "email" : "ashishk392@gmail.com"
-  },
-  "license" : "MIT",
-  "author" : {
-    "name" : "Ashish Sahay",
-    "email" : "ashishk392@gmail",
-    "url" : "https://www.ashishsahay.com",
-    "twitter": "imapexianashish",
-    "donationUrl": "https://www.patreon.com/theapexian"
-  },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU.git"
-  },
- "oracle" : {
-    "versions" : ["19.0.0.0.0"],
-    "apex" : {
-      "versions" : ["19.2.0"],
-      "plugin" : {
-        "internalName" : "DYNAMIC_POSITION_NAV_MENU",
-        "type" : "dynamic action",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=93690",
-        "previewImage" : "https://raw.githubusercontent.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU/master/preview.gif"
-      }
-    }
-  }
+	"name": "Dynamic Navigation Menu Position",
+	"version": "1.0",
+	"description": "Dynamic navigation Menu Position.\r\n\u003Ch4\u003EFree Plug-in under MIT License\u003C\/h4\u003E\r\nThis plugin is free for use under MIT license.\r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOverview\u003C\/h4\u003E\r\n\u003Cp\u003E\u003Cstrong\u003EDynamic Navigation Menu Position \u003C\/strong\u003E allows user to change navigation menu position dynamically.\r\n\u003C\/p\u003E\r\n\u003Ch4\u003EOptions\u003C\/h4\u003E\r\n \n\u003C\/p\u003E\n\u003Col\u003E\n\u003Cli\u003ETop\u003C\/li\u003E\n\u003Cli\u003ESide\u003C\/li\u003E\n\u003Cli\u003EAuto\u003C\/li\u003E \n\u003C/ol\u003E\n\r\n\u003C\/p\u003E\r\n\u003Ch4\u003ECredits\u003C\/h4\u003E\r\nIt wouldn't be possible without the \u003C\/strong\u003EJohn's \u003C\/strong\u003E experiment on Navigation menu\n Check out the full article \n \u003C\/a\u003E href=\"https://hardlikesoftware.com/weblog/2020/03/31/apex-navigation-menu-experiments-part-3/\"\u003EAPEX Navigation Menu Experiments Part 3 \u003C\/a\u003E",
+	"keywords": ["Navigation Menu"],
+	"homepage": "https://github.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU.git",
+	"bugs": {
+		"url": "https://github.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU/issues",
+		"email": "ashishk392@gmail.com"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "Ashish Sahay",
+		"email": "ashishk392@gmail",
+		"url": "https://www.ashishsahay.com",
+		"twitter": "imapexianashish",
+		"donationUrl": "https://www.patreon.com/theapexian"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU.git"
+	},
+	"oracle": {
+		"versions": ["19.0.0.0.0"],
+		"apex": {
+			"versions": ["19.2.0"],
+			"plugin": {
+				"internalName": "DYNAMIC_POSITION_NAV_MENU",
+				"type": "dynamic action",
+				"demo": "https://apex.oracle.com/pls/apex/f?p=93690",
+				"previewImage": "https://raw.githubusercontent.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU/master/preview.gif"
+			}
+		}
+	}
 }
