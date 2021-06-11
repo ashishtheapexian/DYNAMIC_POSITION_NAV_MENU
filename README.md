@@ -1,4 +1,6 @@
 ### Dynamic position navigation menu
+![](https://img.shields.io/badge/Plug--in_Type-Dynamic%20Action-orange.svg) ![](https://img.shields.io/badge/APEX-19.2-success.svg) ![](https://img.shields.io/badge/APEX-20.1-success.svg) ![](https://img.shields.io/badge/APEX-21.1-success.svg)
+
 
 ![Preview](https://raw.githubusercontent.com/ashishtheapexian/DYNAMIC_POSITION_NAV_MENU/master/preview.gif)
 
@@ -10,8 +12,7 @@ There are multiple options available to change the navigation position
   - Side
   - Auto
 
-More detailed explanation checkout [APEX Navigation Menu Experiments Part 3
-](https://hardlikesoftware.com/weblog/2020/03/31/apex-navigation-menu-experiments-part-3/).
+More detailed explanation checkout [APEX Navigation Menu Experiments Part 3](https://hardlikesoftware.com/weblog/2020/03/31/apex-navigation-menu-experiments-part-3/).
 
 Those are actually not looking to bother with the code changes please visit the [apex world](https://apex.world) to and find the plugin based on the above experiment and make your application flexible to change navigation menu position dynamically.
 
@@ -34,3 +35,5 @@ Those are actually not looking to bother with the code changes please visit the 
 
 
 [Demo](https://apex.oracle.com/pls/apex/f?p=93690)
+
+[Blog](https://blogs.ontoorsolutions.com/post/apex-user-profiler/)
